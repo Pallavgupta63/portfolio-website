@@ -254,7 +254,7 @@ export default function App() {
 
         {/* Footer */}
         <footer className="bg-green-800 text-gray-300 text-center py-6">
-          &copy; {new Date().getFullYear()} YourName. All rights reserved.
+          &copy; {new Date().getFullYear()} Pallav Gupta. All rights reserved.
         </footer>
       </div>
     </>
